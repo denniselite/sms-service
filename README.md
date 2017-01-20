@@ -32,9 +32,9 @@ sms:
     enable: true
     settings:
       url: 'https://example.com'
-      login: fbs
+      login: login
       password: password
-      from: FBS
+      from: FROM
     transport: example
 
 ```
